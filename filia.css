@@ -1,0 +1,79 @@
+html {
+    background-color: antiquewhite;
+    color: firebrick;
+}
+
+header, footer {
+    text-align: center;
+}
+
+#menu {
+    box-sizing: border-box;
+    text-decoration: none;
+    color: firebrick;
+    width: 300px;
+    max-height: 150px;
+    padding: 10px;
+    flex: auto;
+}
+
+#menu:hover {
+    color: antiquewhite;
+    background-color: firebrick;
+}
+
+#location {
+    text-decoration: underline;
+    color: firebrick;
+    border: 0px;
+    padding: 0px;
+}
+
+#location:hover {
+    
+}
+
+#story {
+    font: script;
+    font-family: cursive;
+    font-style: italic;
+}
+
+#ourWines {
+    font-style: oblique;
+}
+
+#Wines {
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#aboutWines{
+    font-style: italic;
+    text-align: left;
+}
+
+#wineMenu{
+    text-align: center;
+}
+
+#clubInfo{
+    
+}
+
+#clubBenefits{
+    
+}
+
+#wineClub{
+    
+}
+
+#wineClubInfo{
+    
+}
+
+#benefits{
+    
+}
